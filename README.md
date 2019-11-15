@@ -1,1 +1,1 @@
-# Binary-Huffman-Coding
+# Binary Huffman Coding
