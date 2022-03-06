@@ -1,3 +1,3 @@
 # C++ Binary Huffman Coding
 
-C++ implementation of binary huffman coding in one single file
+C++ implementation of Binary Huffman Coding in one single file
